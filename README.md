@@ -1,3 +1,4 @@
+<img src="header.png">
 
 ### Hi there, I'm Kushagra 👋
 
