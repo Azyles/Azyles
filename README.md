@@ -4,7 +4,7 @@
 
 About me:
 
-- 🔭 I’m currently working on **[Disce](https://github.com/Azyles/Disce)**
+- 🔭 I’m currently working on **Personal Website**
 - 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me: **kushthaksh@gmail.com**
 
