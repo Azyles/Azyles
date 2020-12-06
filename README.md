@@ -5,7 +5,7 @@
 About me:
 
 - 🔭 I’m currently working on **Personal Website**
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter & Web Development**
 - 📫 How to reach me: **kushthaksh@gmail.com**
 
 Skills:
