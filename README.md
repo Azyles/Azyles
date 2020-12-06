@@ -7,7 +7,6 @@ About me:
 - 🔭 I’m currently working on **[Disce](https://github.com/Azyles/Disce)**
 - 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me: **kushthaksh@gmail.com**
-- 🤫 Some presents are still need to be unwrapped!
 
 Skills:
 - Full-stack Development
