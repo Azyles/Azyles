@@ -1,6 +1,6 @@
-<img src="header.png">
+/<img src="header.png">
 
-### Hi there, I'm Kushagra 👋
+### Hello there, I'm Kushagra 👋
 
 About me:
 
