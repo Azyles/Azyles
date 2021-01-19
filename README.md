@@ -1,11 +1,11 @@
-/<img src="header.png">
+<img src="header.png">
 
 ### Hello there, I'm Kushagra 👋
 
 About me:
 
-- 🔭 I’m currently working on **Personal Website**
-- 🌱 I’m currently learning **Flutter & Web Development**
+- 🔭 I’m currently working on **Personal Website & UNLISTED PROJECT**
+- 🌱 I’m currently learning **Stock Trading Algorithms**
 - 📫 How to reach me: **kushthaksh@gmail.com**
 
 Skills:
