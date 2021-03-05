@@ -1,4 +1,4 @@
-<img src="header.png">
+<img src="canvas.png">
 
 ### Hello there, I'm Kushagra 👋
 
