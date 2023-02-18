@@ -6,7 +6,7 @@ About me:
 
 - 🔭 I’m currently working on **Personal Website & Synapse**
 - 🌱 I’m currently learning **Stock Trading Algorithms**
-- 📫 How to reach me: **kushthaksh@gmail.com**
+- 📫 How to reach me: 
 
 Skills:
 - Full-stack Development
